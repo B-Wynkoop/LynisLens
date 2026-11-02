@@ -17,7 +17,7 @@ sudo grep -E "warning|suggestion" /var/log/lynis-report.dat > lynis-review.txt &
 open lynis-review.txt 
 
 #########
-# Brady #
+#Wynkoop#
 #########
 
 # * CREDITS TO LYNIS AUDITING TOOL *
